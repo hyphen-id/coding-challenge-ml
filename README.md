@@ -18,7 +18,7 @@ Your task is to write a Python script that does the following:
 
 1. **Text Preprocessing:** Implement basic preprocessing tasks like lower casing, punctuation removal, tokenization etc.
 
-2. **Entity Recognition:** Using a library of your choice, identify the named entities present in the text.
+2. **Entity Recognition:** Identify the named entities present in the text.
 
 3. **Relationship Extraction:** Implement a strategy to determine the relationships between the entities identified in the previous step. This might involve rule-based methods, dependency parsing, or even a simpler co-occurrence strategy depending on what you see fit.
 
@@ -30,6 +30,7 @@ The final output should be a visual representation of the knowledge graph genera
 
 ## Technical Requirements
 * The challenge should be done in Python, and you may use any Python libraries you find appropriate, as well as Jupyter if you like. However, remember to include a requirements.txt file for any external libraries used.
+* You may use any models that you see fit for the challenge
 
 
 ## Practical
