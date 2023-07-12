@@ -27,16 +27,18 @@ Your task is to write a Python script that does the following:
 ### Output
 The final output should be a visual representation of the knowledge graph generated from the given text. This can be displayed as a plot in a Jupyter notebook or saved as an image file.
 
+### Evaluation
+There are no specific 
 
 ## Technical Requirements
 * The challenge should be done in Python, and you may use any Python libraries you find appropriate, as well as Jupyter if you like. However, remember to include a requirements.txt file for any external libraries used.
 * You may use any models that you see fit for the challenge
-
+* There are no performance requirements or evaluation metrics defined. Give it your best shot, and let's discuss performance and evaluation of different approaches at the interview.
 
 ## Practical
 
-* Please don't spend more than 90 minutes on this exercise. This is meant to be a starting point for our technical discussion and does not need to be a fully polished, production-ready application. You can note the things you would have done if you had more time and we can discuss it during the interview if you like.
+* Please don't spend more than 90 minutes on this exercise. This is meant to be a starting point for our technical discussion and does not need to be a fully polished, production-ready application. We are more interested in your approach and problem-solving skills. You can note the things you would have done if you had more time and we can discuss it during the interview if you like.
 
-* Share with us your git repo link, at the latest 24 hours before your interview (Github usernames: @simonwh @pax-k)
+* Share with us your git repo link, at the latest 24 hours before your interview (Github usernames: @simonwh @pax-k @Volland)
 
 Have fun!
